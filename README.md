@@ -7,4 +7,5 @@ A més, en aquest fitxer README m'agradaria adjuntar (com a part de la resoluci�
 
 ### Explicació de la base de dades problema - Ampliació de l'exercici 1
 
+Per visualitzar la base de dades "movies", a més de les comandes que es mostren al Script, he generat un diagrama EER fent ús de **MySQL Workbench**. En concret, he fet ús de l'eina Reverse Engineer.
 
